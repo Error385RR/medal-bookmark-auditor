@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.coverage*
+*.whl
+*.tar.gz
+.tmp/
+/outputs/
+
+# Local Medal data and generated reports
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+/reports/
+/.test_tmp/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+﻿local_content_id,created_at_utc,game,video_path,video_exists,clip_duration_seconds,trigger_type,capture_type,clip_type,clip_start_timestamp,export_stats_timestamp,recorder_event_timestamp,export_to_start_offset_seconds,bookmark_count,in_range_count,out_of_range_count,missing_timing_count,metadata_status
+bad,1970-01-01T00:00:01.000Z,tekken,C:/clips/Tekken/bad.mp4,False,,,,,,,,,0,0,0,0,FAILED: metadata could not be decoded as a JSON object
+r1,2024-01-01T00:00:00.000Z,roblox,C:/clips/Roblox/c.mp4,False,20.0,ICYMI,InjectionCapture,clip,2026-08-15T00:00:00.000Z,2026-08-15T00:00:10.000Z,,10.0,0,0,0,0,PARSED
+v1,2026-08-14T00:00:00.000Z,valorant,C:/clips/Valorant/a.mp4,False,20.0,ICYMI,InjectionCapture,clip,2026-08-15T00:00:00.000Z,2026-08-15T00:00:10.000Z,,10.0,1,1,0,0,PARSED
+v2,2026-08-15T00:00:00.000Z,valorant,C:/clips/Valorant/b.mp4,False,20.0,ICYMI,InjectionCapture,clip,2026-08-15T00:00:00.000Z,2026-08-15T00:00:10.000Z,,10.0,1,1,0,0,PARSED
